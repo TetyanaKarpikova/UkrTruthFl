@@ -3,8 +3,7 @@
 *{
     margin-top: 25px;
     padding: 0px;
-    font-family: 'Fira Sans', sans-serif;
-   
+    font-family: 'Fira Sans', sans-serif;   
 }
 
 .txt_white{
@@ -30,8 +29,7 @@
     display: inline;
     list-style: none;      
     font-size: 12px;
-    font-weight: 800;
-    
+    font-weight: 800;    
 }
 
 .small_items a{
@@ -91,16 +89,13 @@ header{
     font-size: 28px;
 }
 .ukr_center :last-child{
-    font-size: 10px;
-    
-    
+    font-size: 10px;    
 }
 
 .lang .ur{
     font-size: 12px;
     margin-right: 5px;
-    text-decoration: none;
-   
+    text-decoration: none;   
 }
 
 .lang .club{
