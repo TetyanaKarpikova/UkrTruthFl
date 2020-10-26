@@ -6,9 +6,7 @@
     font-family: 'Fira Sans', sans-serif;
    
 }
-.div_h30{
-    height: 40px;
-}
+
 .txt_white{
     color: white;
 }
@@ -49,7 +47,7 @@
     color: rgb(97, 96, 96);
 }
 header{
-    margin: 0px;
+    margin: 0px;  
 }
 .div_container{
     margin-top: 7px;
@@ -86,6 +84,7 @@ header{
 
 .ukr_center{    
     height: 50px;   
+    text-align: center;
 }
 
 .ukr_center span{
@@ -93,9 +92,10 @@ header{
 }
 .ukr_center :last-child{
     font-size: 10px;
-    text-align: center;
+    
     
 }
+
 .lang .ur{
     font-size: 12px;
     margin-right: 5px;
